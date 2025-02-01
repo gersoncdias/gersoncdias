@@ -42,7 +42,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt=html5 logo"  />
 </div>
 
 ###
